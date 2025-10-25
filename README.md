@@ -2,7 +2,7 @@
 
 A sleek and intuitive Windows launcher application for managing and launching your entire Jackbox Party Pack collection from one centralized interface.
 
-<img width="463" height="358" alt="image" src="https://github.com/user-attachments/assets/601996b9-e06d-4652-ada1-47e091112d70" />
+<img width="464" height="356" alt="image" src="https://github.com/user-attachments/assets/115a4acc-3fc8-4c25-b31c-2f90aa673dc6" />
 
 ## ✨ Features
 
@@ -69,5 +69,6 @@ Contributions are welcome! Feel free to:
 - Games must be properly installed in the expected directory structure
 - The application will exit if required games are not found
 - Originally taken from ![Masquerade64's](https://github.com/Masquerade64/JackboxLauncher) GitHub (which I assume was either the original; or was pulled from the KaOsKrew website (https://kaoskrew.org)
+
 
 
