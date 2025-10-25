@@ -6,12 +6,12 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("JackboxLauncher")]
-[assembly: AssemblyDescription("KaOs Jackbox Launcher")]
+[assembly: AssemblyDescription("Jackbox Launcher")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("KaOs Krew")]
-[assembly: AssemblyProduct("KaOs Jackbox Launcher")]
-[assembly: AssemblyCopyright("Copyright © KaOs Krew 2022")]
-[assembly: AssemblyTrademark("KaOs Krew 2022")]
+[assembly: AssemblyCompany("KaOs Krew & Connor Kaiser")]
+[assembly: AssemblyProduct("Jackbox Launcher")]
+[assembly: AssemblyCopyright("Copyright © KaOs Krew 2025 & Connor Kaiser")]
+[assembly: AssemblyTrademark("KaOs Krew 2025 & Connor Kaiser")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
