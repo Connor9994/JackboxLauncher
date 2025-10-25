@@ -22,7 +22,7 @@ namespace JackboxLauncher
 
         private void KaOsBox_Click(object sender, EventArgs e)
         {
-            Process.Start("https://www.kaoskrew.org");
+            Process.Start("https://github.com/Connor9994/JackboxLauncher");
         }
 
         private void KaOs_Load(object sender, EventArgs e)
@@ -65,6 +65,15 @@ namespace JackboxLauncher
                 case 8:
                     GamePicBox.Image = Properties.Resources._9;
                     break;
+                case 9:
+                    GamePicBox.Image = Properties.Resources._10;
+                    break;
+                case 10:
+                    GamePicBox.Image = Properties.Resources._11;
+                    break;
+                case 11:
+                    GamePicBox.Image = Properties.Resources._N;
+                    break;
                 }
         }
 
@@ -98,6 +107,15 @@ namespace JackboxLauncher
                     break;
                 case 8:
                     Process.Start("https://store.steampowered.com/app/1850960");
+                    break;
+                case 9:
+                    Process.Start("https://store.steampowered.com/app/2216830");
+                    break;
+                case 10:
+                    Process.Start("https://store.steampowered.com/app/3364070");
+                    break;
+                case 11:
+                    Process.Start("https://store.steampowered.com/app/2652000");
                     break;
             }
         }
@@ -143,6 +161,18 @@ namespace JackboxLauncher
                 case 8:
                     Directory.SetCurrentDirectory("9");
                     Process.Start("The Jackbox Party Pack 9.exe");
+                    break;
+                case 9:
+                    Directory.SetCurrentDirectory("10");
+                    Process.Start("The Jackbox Party Pack 10.exe");
+                    break;
+                case 10:
+                    Directory.SetCurrentDirectory("11");
+                    Process.Start("The Jackbox Party Pack 11.exe");
+                    break;
+                case 11:
+                    Directory.SetCurrentDirectory("N");
+                    Process.Start("The Jackbox Naughty Pack.exe");
                     break;
             }
 
