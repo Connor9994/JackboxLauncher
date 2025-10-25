@@ -75,7 +75,10 @@
             "The Jackbox Party Pack 6",
             "The Jackbox Party Pack 7",
             "The Jackbox Party Pack 8",
-            "The Jackbox Party Pack 9"});
+            "The Jackbox Party Pack 9",
+            "The Jackbox Party Pack 10",
+            "The Jackbox Party Pack 11",
+            "The Jackbox Naughty Pack"});
             this.DropBox.Location = new System.Drawing.Point(11, 298);
             this.DropBox.Name = "DropBox";
             this.DropBox.Size = new System.Drawing.Size(359, 21);
