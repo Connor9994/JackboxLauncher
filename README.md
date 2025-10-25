@@ -1,9 +1,5 @@
 # JackboxLauncher
-Game Launcher for KaOs Jackbox Collection
+Game Launcher for Jackbox Collection
 
-![Image](https://i.ibb.co/YbrxrwQ/ex-launcher.png)
+<img width="461" height="356" alt="image" src="https://github.com/user-attachments/assets/4b557e63-f992-472d-a168-932e61402791" />
 
-All images used copyright of their respective owners. Credits for resources used:
-
-- KiNG
-- Jackbox Games, Inc.
