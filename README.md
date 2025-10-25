@@ -68,3 +68,5 @@ Contributions are welcome! Feel free to:
 - This launcher requires "legitimate" copies of Jackbox Party Packs
 - Games must be properly installed in the expected directory structure
 - The application will exit if required games are not found
+- Originally taken from ![Masquerade64's](https://github.com/Masquerade64/JackboxLauncher) GitHub (which I assume was either the original; or was pulled from the ![KaOsKrew](https://kaoskrew.org) website
+
