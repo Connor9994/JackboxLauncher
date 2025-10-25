@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("KaOs Krew & Connor Kaiser")]
 [assembly: AssemblyProduct("Jackbox Launcher")]
-[assembly: AssemblyCopyright("Copyright © KaOs Krew 2025 & Connor Kaiser")]
+[assembly: AssemblyCopyright("KaOs Krew 2025 & Connor Kaiser")]
 [assembly: AssemblyTrademark("KaOs Krew 2025 & Connor Kaiser")]
 [assembly: AssemblyCulture("")]
 
