@@ -1,5 +1,7 @@
 # 🎮 KaOs Jackbox Party Pack Collection Launcher
 
+![GitHub stars](https://img.shields.io/github/stars/Connor9994/JackboxLauncher?style=social) ![GitHub forks](https://img.shields.io/github/forks/Connor9994/JackboxLauncher?style=social) ![GitHub issues](https://img.shields.io/github/issues/Connor9994/JackboxLauncher) 
+
 A sleek and intuitive Windows launcher application for managing and launching your entire Jackbox Party Pack collection from one centralized interface.
 
 <img width="464" height="356" alt="image" src="https://github.com/user-attachments/assets/115a4acc-3fc8-4c25-b31c-2f90aa673dc6" />
@@ -68,6 +70,7 @@ Contributions are welcome! Feel free to:
 - This launcher requires "legitimate" copies of Jackbox Party Packs
 - Games must be properly installed in the expected directory structure
 - Originally taken from ![Masquerade64's](https://github.com/Masquerade64/JackboxLauncher) GitHub (which I assume was either the original; or was pulled from the KaOsKrew website (https://kaoskrew.org) )
+
 
 
 
